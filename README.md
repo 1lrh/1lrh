@@ -89,9 +89,9 @@ Here are some ideas to get you started:
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/120px-Vimlogo.svg.png" alt="vim" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x1rh&show_icons=true&locale=en&layout=compact" alt="1lrh" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x1rh&show_icons=true&locale=en" alt="x1rh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x1rh&" alt="x1rh" /></p> 
+<p><img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=x1rh&show_icons=true&locale=en&layout=compact" alt="1lrh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=x1rh&show_icons=true&locale=en" alt="x1rh" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x1rh&" alt="x1rh" /></p>  -->
 
 ![](http://profile-counter.glitch.me/x1rh/count.svg)
 
