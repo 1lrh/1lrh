@@ -71,23 +71,25 @@ Here are some ideas to get you started:
 
 
 <h2 align="left">Languages and Tools:</h2>
-<p align="left"> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="go" width="45" height="45"/></a> 
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="go" width="42" height="42"/></a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>   
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/100px-Solidity_logo.svg.png" alt="solidity" width="40" height="40"/></a>  
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a> 
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/8114528b-picto-ubuntu-orange.png" alt="ubuntu" width="40" height="40"/></a> 
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/120px-Vimlogo.svg.png" alt="vim" width="40" height="40"/></a>
-</p>
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 5px;"><a href="https://golang.org"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="go" width="40" height="40"/></a></td>
+    <td style="border: none; padding: 0 5px;"><a href="https://www.rust-lang.org/"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/></a></td>
+    <td style="border: none; padding: 0 5px;"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
+    <td style="border: none; padding: 0 5px;"><a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
+    <td style="border: none; padding: 0 5px;"><a href="https://soliditylang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/100px-Solidity_logo.svg.png" alt="solidity" width="40" height="40"/></a></td>
+    <td style="border: none; padding: 0 5px;"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
+    <td style="border: none; padding: 0 5px;"><a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a></td>
+    <td style="border: none; padding: 0 5px;"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
+    <td style="border: none; padding: 0 5px;"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
+    <td style="border: none; padding: 0 5px;"><a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a></td>
+    <td style="border: none; padding: 0 5px;"><a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a></td>
+    <td style="border: none; padding: 0 5px;"><a href="https://www.vagrantup.com/"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></a></td>
+    <td style="border: none; padding: 0 5px;"><a href="https://ubuntu.com/"><img src="https://assets.ubuntu.com/v1/8114528b-picto-ubuntu-orange.png" alt="ubuntu" width="40" height="40"/></a></td>
+    <td style="border: none; padding: 0 5px;"><a href="https://www.vim.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/120px-Vimlogo.svg.png" alt="vim" width="40" height="40"/></a></td>
+  </tr>
+</table>
+
 
 <p><img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=x1rh&show_icons=true&locale=en&layout=compact" alt="1lrh" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=x1rh&show_icons=true&locale=en" alt="x1rh" /></p>
